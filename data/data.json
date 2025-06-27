@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "username": "ccc",
+      "password": "$2a$10$Iy5VjXryvw09pSzMzCeLl.PJA.8a2O3CkdAAiFzVi1YyijDgn8isu",
+      "displayName": "ccc"
+    },
+    {
+      "username": "conley",
+      "password": "$2a$10$95OminbZTRM9s50strzK1O.2wJwhVPGBV1HaZceVeJTnlTkBlBLNe",
+      "displayName": "CONLEY ECCLESTONE"
+    }
+  ],
+  "picks": {
+    "ccc||GrandRiver": [
+      {
+        "raceNo": 1,
+        "picks": "1-2-3"
+      }
+    ],
+    "ccc|2025-06-26|GrandRiver": [
+      {
+        "raceNo": 1,
+        "picks": "2-3-4-5"
+      },
+      {
+        "raceNo": 2,
+        "picks": "4-5-3-1"
+      }
+    ],
+    "conley|2025-06-27|GrandRiver": [
+      {
+        "raceNo": 1,
+        "picks": "2-4-6-1"
+      },
+      {
+        "raceNo": 2,
+        "picks": "4-5-3-1"
+      },
+      {
+        "raceNo": 3,
+        "picks": "4-3-5-1"
+      },
+      {
+        "raceNo": 4,
+        "picks": "4-1-3-5"
+      },
+      {
+        "raceNo": 5,
+        "picks": "1-4-2-3-5"
+      },
+      {
+        "raceNo": 6,
+        "picks": "4-5-6-1"
+      },
+      {
+        "raceNo": 7,
+        "picks": "5-4-1-6"
+      },
+      {
+        "raceNo": 8,
+        "picks": "6-3-1-7"
+      },
+      {
+        "raceNo": 9,
+        "picks": "2-3-6-1"
+      },
+      {
+        "raceNo": 10,
+        "picks": "5-7-4-2-6"
+      }
+    ]
+  },
+  "tickets": {
+    "ccc|2025-06-26|GrandRiver": [
+      {
+        "ticketName": "ccc - Early Pick5",
+        "amount": 21.6,
+        "baseWager": 0.2,
+        "startRace": 1,
+        "legs": [
+          {
+            "legNo": 1,
+            "selections": "2-4-6"
+          },
+          {
+            "legNo": 2,
+            "selections": "3-4-5"
+          },
+          {
+            "legNo": null,
+            "selections": "4"
+          },
+          {
+            "legNo": null,
+            "selections": "1-3-4"
+          },
+          {
+            "legNo": null,
+            "selections": "1-2-3-4"
+          }
+        ]
+      }
+    ],
+    "conley|2025-06-27|GrandRiver": [
+      {
+        "ticketName": "CONLEY ECCLESTONE - EARLY PICK 5",
+        "amount": 21.6,
+        "baseWager": 0.2,
+        "startRace": 1,
+        "legs": [
+          {
+            "legNo": 1,
+            "selections": "2-4-6"
+          },
+          {
+            "legNo": 2,
+            "selections": "3-4-5"
+          },
+          {
+            "legNo": 3,
+            "selections": "4"
+          },
+          {
+            "legNo": 4,
+            "selections": "1-3-4"
+          },
+          {
+            "legNo": 5,
+            "selections": "1-2-3-4"
+          }
+        ]
+      },
+      {
+        "ticketName": "CONLEY ECCLESTONE - LATE PICK 5",
+        "amount": 14.4,
+        "baseWager": 0.2,
+        "startRace": 6,
+        "legs": [
+          {
+            "legNo": 1,
+            "selections": "4-5-6"
+          },
+          {
+            "legNo": 2,
+            "selections": "4-5"
+          },
+          {
+            "legNo": 3,
+            "selections": "1-3-6"
+          },
+          {
+            "legNo": 4,
+            "selections": "2-3"
+          },
+          {
+            "legNo": 5,
+            "selections": "5-7"
+          }
+        ]
+      },
+      {
+        "ticketName": "CONLEY ECCLESTONE - EARLY PICK 4",
+        "amount": 7.2,
+        "baseWager": 0.2,
+        "startRace": 1,
+        "legs": [
+          {
+            "legNo": 1,
+            "selections": "3-4-5"
+          },
+          {
+            "legNo": 2,
+            "selections": "4"
+          },
+          {
+            "legNo": 3,
+            "selections": "1-3-4"
+          },
+          {
+            "legNo": 4,
+            "selections": "1-2-3-4"
+          }
+        ]
+      },
+      {
+        "ticketName": "CONLEY ECCLESTONE - LATE PICK 4",
+        "amount": 4.8,
+        "baseWager": 0.2,
+        "startRace": 7,
+        "legs": [
+          {
+            "legNo": 1,
+            "selections": "4-5"
+          },
+          {
+            "legNo": 2,
+            "selections": "1-3-6"
+          },
+          {
+            "legNo": 3,
+            "selections": "2-3"
+          },
+          {
+            "legNo": 4,
+            "selections": "5-7"
+          }
+        ]
+      }
+    ]
+  }
+}
